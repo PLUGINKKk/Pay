@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9b0708df4b7b39a55e4b3e2aea700c51\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ac5a2660dd9946be951d6a66aaf439df\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\e05f807570fbf32e4d373ca511e8f4d0\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7fe79fac4fdbe458a46e8e266623c3ba\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\216c7e7a9d1156dc846042d724c2ba04\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\e36706a1de5ed63cae90897aa1dc5481\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\4a30390453dd0d41219536fbad63a9a4\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6091406fa02a399e7ab24d944f561fc6\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\89b891ed0b836154d86f50b498e144bd\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0a10a41ff4509e118c3b3030622b2d07\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\8cd7cc8798e6c118756d2fb149fae6b3\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6c068ac973ee8de2e69a523eea6ae025\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0e08e5a45e22d05c5857e2d54f86fad3\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\d567d3aacc178cfd8d9c24741a46587d\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\4751e52711b1d16850d7896bc0e595c8\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\45b494669e9bf9e0d55eac422c60ddd8\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7a7fe0010fa5a2111941e2fcbd9aad61\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ba6805718d6ef0917558111caf074bc9\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\318b7369c1bbaf348a6a78beefc7a826\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\273748a112d61bd63ec52b482685c142\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0fd7a4fae665ff044d8e20c7632a5b1b\transformed\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6b724f4aaa86fac66f5c33437580d844\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\13ba6096081d8a3472cc09fff776f106\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\fc842bb3fd2b17ccf1f74c926f2f149b\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ab399b88361497b4bb4a7e1228c45461\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\24a89b344aea01938419b30c709852c8\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b09daff83eda99d39f3ee6d02e6bee6d\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\60b2648e493a3a08db3fc552ef6a7dd5\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\1bb0df38816334cd5d5bf48e4fa8b27e\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\c04bacd2482286f0ba2a5fc94bfcd6ba\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\31d92919862daa89c649eb252cd88131\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ef84ca42ff4792cd405be08cfe5819b4\transformed\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:4:2-23
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:3:2-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:5:2-77
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:5:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:6:2-78
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:6:19-75
+application
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:7:2-64:16
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9b0708df4b7b39a55e4b3e2aea700c51\transformed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9b0708df4b7b39a55e4b3e2aea700c51\transformed\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ac5a2660dd9946be951d6a66aaf439df\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ac5a2660dd9946be951d6a66aaf439df\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0fd7a4fae665ff044d8e20c7632a5b1b\transformed\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0fd7a4fae665ff044d8e20c7632a5b1b\transformed\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:9:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:10:3-35
+	android:largeHeap
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:12:3-27
+	android:icon
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:11:3-36
+	android:allowBackup
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:14:3-34
+	android:usesCleartextTraffic
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:13:3-38
+activity#com.pay.plu.MainActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:15:3-25:14
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:20:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:18:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:19:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:17:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:16:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:22:5-57
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:23:15-62
+activity#com.pay.plu.PlayActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:26:3-32:48
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:31:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:29:4-38
+	android:windowSoftInputMode
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:32:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:30:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:28:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:27:4-32
+activity#com.pay.plu.ZawActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:33:3-39:48
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:38:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:36:4-38
+	android:windowSoftInputMode
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:39:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:37:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:35:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:34:4-31
+activity#com.pay.plu.TxaActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:40:3-46:48
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:45:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:43:4-38
+	android:windowSoftInputMode
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:46:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:44:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:42:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:41:4-31
+activity#com.pay.plu.KyuActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:47:3-53:48
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:52:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:50:4-38
+	android:windowSoftInputMode
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:53:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:51:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:49:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:48:4-31
+activity#com.pay.plu.SoeActivity
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:54:3-60:48
+	android:screenOrientation
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:59:4-40
+	android:hardwareAccelerated
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:57:4-38
+	android:windowSoftInputMode
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:60:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:58:4-43
+	android:configChanges
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:56:4-97
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:55:4-31
+uses-library#org.apache.http.legacy
+ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:61:3-63:31
+	android:required
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:63:4-28
+	android:name
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml:62:4-41
+uses-sdk
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9b0708df4b7b39a55e4b3e2aea700c51\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha04] C:\Users\ASUS\.gradle\caches\transforms-3\9b0708df4b7b39a55e4b3e2aea700c51\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ac5a2660dd9946be951d6a66aaf439df\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\.gradle\caches\transforms-3\ac5a2660dd9946be951d6a66aaf439df\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\e05f807570fbf32e4d373ca511e8f4d0\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\e05f807570fbf32e4d373ca511e8f4d0\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7fe79fac4fdbe458a46e8e266623c3ba\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7fe79fac4fdbe458a46e8e266623c3ba\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\216c7e7a9d1156dc846042d724c2ba04\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\216c7e7a9d1156dc846042d724c2ba04\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\e36706a1de5ed63cae90897aa1dc5481\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\e36706a1de5ed63cae90897aa1dc5481\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\4a30390453dd0d41219536fbad63a9a4\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\4a30390453dd0d41219536fbad63a9a4\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6091406fa02a399e7ab24d944f561fc6\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\6091406fa02a399e7ab24d944f561fc6\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\89b891ed0b836154d86f50b498e144bd\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\89b891ed0b836154d86f50b498e144bd\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0a10a41ff4509e118c3b3030622b2d07\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0a10a41ff4509e118c3b3030622b2d07\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\8cd7cc8798e6c118756d2fb149fae6b3\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\.gradle\caches\transforms-3\8cd7cc8798e6c118756d2fb149fae6b3\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6c068ac973ee8de2e69a523eea6ae025\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6c068ac973ee8de2e69a523eea6ae025\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0e08e5a45e22d05c5857e2d54f86fad3\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0e08e5a45e22d05c5857e2d54f86fad3\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\d567d3aacc178cfd8d9c24741a46587d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\d567d3aacc178cfd8d9c24741a46587d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\4751e52711b1d16850d7896bc0e595c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\4751e52711b1d16850d7896bc0e595c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\45b494669e9bf9e0d55eac422c60ddd8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\45b494669e9bf9e0d55eac422c60ddd8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7a7fe0010fa5a2111941e2fcbd9aad61\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\7a7fe0010fa5a2111941e2fcbd9aad61\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ba6805718d6ef0917558111caf074bc9\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ba6805718d6ef0917558111caf074bc9\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\318b7369c1bbaf348a6a78beefc7a826\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\318b7369c1bbaf348a6a78beefc7a826\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\273748a112d61bd63ec52b482685c142\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\273748a112d61bd63ec52b482685c142\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\.gradle\caches\transforms-3\add1e6701363d3a81220df506b7be8bd\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0fd7a4fae665ff044d8e20c7632a5b1b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\0fd7a4fae665ff044d8e20c7632a5b1b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6b724f4aaa86fac66f5c33437580d844\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\6b724f4aaa86fac66f5c33437580d844\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\13ba6096081d8a3472cc09fff776f106\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\13ba6096081d8a3472cc09fff776f106\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\fc842bb3fd2b17ccf1f74c926f2f149b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\fc842bb3fd2b17ccf1f74c926f2f149b\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ab399b88361497b4bb4a7e1228c45461\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ab399b88361497b4bb4a7e1228c45461\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\24a89b344aea01938419b30c709852c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\24a89b344aea01938419b30c709852c8\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b09daff83eda99d39f3ee6d02e6bee6d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\b09daff83eda99d39f3ee6d02e6bee6d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\60b2648e493a3a08db3fc552ef6a7dd5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\60b2648e493a3a08db3fc552ef6a7dd5\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\1bb0df38816334cd5d5bf48e4fa8b27e\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\1bb0df38816334cd5d5bf48e4fa8b27e\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\c04bacd2482286f0ba2a5fc94bfcd6ba\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\c04bacd2482286f0ba2a5fc94bfcd6ba\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\31d92919862daa89c649eb252cd88131\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\31d92919862daa89c649eb252cd88131\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ef84ca42ff4792cd405be08cfe5819b4\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\ef84ca42ff4792cd405be08cfe5819b4\transformed\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		ADDED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
+		INJECTED from D:\paygame\PAY\PAY\app\src\main\AndroidManifest.xml
